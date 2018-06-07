@@ -6,7 +6,6 @@ My stupid boss still prefers SVN
 Creating a new branch is quick and simple
 new commit 1 tom
 git push origin dev
-new dev
-new tom1
-111111111111111
-123
+Git is free software
+111
+
